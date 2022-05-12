@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kata", "kata.csproj", "{868ECDCC-A1E1-4C96-9782-B6620F16AF6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowTest", "..\SpecFlowTest\SpecFlowTest.csproj", "{6CE6362B-6B30-466E-A772-60252A7D667A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{868ECDCC-A1E1-4C96-9782-B6620F16AF6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868ECDCC-A1E1-4C96-9782-B6620F16AF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868ECDCC-A1E1-4C96-9782-B6620F16AF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868ECDCC-A1E1-4C96-9782-B6620F16AF6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CE6362B-6B30-466E-A772-60252A7D667A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE6362B-6B30-466E-A772-60252A7D667A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE6362B-6B30-466E-A772-60252A7D667A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE6362B-6B30-466E-A772-60252A7D667A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {289818D4-3B1D-4DC2-8E68-CE8E65A0E478}
+	EndGlobalSection
+EndGlobal
